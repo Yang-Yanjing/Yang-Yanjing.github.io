@@ -42,9 +42,10 @@ Publications
 - [Accepted, CCF A] Zhou X, Xu J, Zhang H, Yang Y, Yang L, Liu B, Tang H. Securing Self-Managed Third-Party Libraries. 40th IEEE/ACM International Conference on Automated Software Engineering, 2025.
 - [Preprint] Cheng Z*, Yang Y*, Zhang H, Yang L, Hu J, Xu J, Liu B, Shen H. Leveraging Self-Paced Learning for Software Vulnerability Detection. arXiv:2511.09212, 2025.
 - [Published, CCF B, CAS 4区] Xu J, Zhang H, Zhou X, Yang Y, Mao R, Li X, Yang L, Shen H. Automated Detection of Affected Libraries from Vulnerability Reports. Automated Software Engineering, 32(2), 73, 2025.
+- [Published, CCF A Chinese] Yang Y, et al. 一种基于大语言模型的多来源漏洞影响库识别方法. 计算机学报, 2025.
 - [Preprint] Cao L, Zhang H, Li S, Li D, Yang Y, Zhong C, Zhou X, Xie Y. Enhancing the Accuracy and Comprehensibility in Architectural Tactics Detection via Small Model-Augmented Prompt Engineering. arXiv:2503.03609, 2025.
 - [Published, CCF B, CAS 2区] Yang Y, Zhou X, Mao R, Xu J, Yang L, Zhang Y, Shen H, Zhang H. DLAP: A Deep Learning Augmented Large Language Model Prompting Framework for Software Vulnerability Detection. Journal of Systems and Software, 219, 112234, 2025.
-- [Published, EI, CSCD Core, PKU Core] Yang Y, Mao R, Tan R, Shen H, Rong G. Robustness Verification Method for Artificial Intelligence Systems Based on Source Code Processing. Journal of Software, 33(9), 1-19, 2023.
+- [Published, CCF None] 杨焱景, 毛润丰, 谭睿, 沈海峰, 荣国平. 源码处理场景下人工智能系统鲁棒性验证方法. 软件学报, 33(9), 1-19, 2023.
 - [Published, CCF C] Yang Y, Gao M, Li Y, Wu F, Wang J, Zhao Q. MSPLD: Shilling Attack Detection Model Based on Meta Self-Paced Learning. International Joint Conference on Neural Networks, 1-8, 2021.
   
 Patents

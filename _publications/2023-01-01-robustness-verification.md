@@ -1,11 +1,11 @@
 ---
-title: "Robustness Verification Method for Artificial Intelligence Systems Based on Source Code Processing"
+title: "源码处理场景下人工智能系统鲁棒性验证方法"
 collection: publications
 category: manuscripts
 permalink: /publication/2023-01-01-robustness-verification
 date: 2023-01-01
-venue: "Journal of Software"
-citation: "Yang Y, Mao R, Tan R, Shen H, Rong G. Robustness Verification Method for Artificial Intelligence Systems Based on Source Code Processing. Journal of Software, 2023."
+venue: "软件学报"
+citation: "杨焱景, 毛润丰, 谭睿, 沈海峰, 荣国平. 源码处理场景下人工智能系统鲁棒性验证方法. 软件学报, 33(9), 1-19, 2023."
 ---
 
-✅ Published. Rank: CCF None; EI; CSCD Core; PKU Core.
+✅ Published. Rank: CCF None.

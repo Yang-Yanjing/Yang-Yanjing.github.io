@@ -11,7 +11,7 @@ redirect_from:
 
 I am a direct-admission Ph.D. student in Software Engineering at the State Key Laboratory of New Technology of Computer Software, Nanjing University. My research focuses on source code security and API security, especially large language model based vulnerability detection, robustness and generalization of vulnerability detection models, agentic AI for API security analysis, and API breaking-change analysis.
 
-I am advised by Prof. He Zhang, a National High-Level Overseas Talent Program ("Thousand Talents Plan") scholar at Nanjing University. I am also glad to collaborate with Assistant Professor Bohan Liu at NJU. Supported by CSC, I am currently collaborating with Prof. Lyuye Zhang and Prof. Yang Liu at Nanyang Technological University.
+I am advised by Prof. **He Zhang**, a National High-Level Overseas Talent Program ("Thousand Talents Plan") scholar at Nanjing University. I am also glad to collaborate with Assistant Professor **Bohan Liu** at NJU. During my undergraduate studies at Chongqing University, Prof. **Min Gao** introduced me to academic research. Supported by CSC, I am currently collaborating with Prof. **Lyuye Zhang**, an overseas outstanding young scholar at NTU and NKU, and Prof. **Yang Liu**, a world-leading software engineering expert, at Nanyang Technological University.
 
 In software security, I study how LLM agents can support source code vulnerability detection and how vulnerability reports drive code changes across the software supply chain. In API security, I work on agent-based analysis of API entry points, API breaking changes, calling processes, malicious payloads, abnormal API call patterns, and broken access control risks.
 
@@ -34,15 +34,16 @@ B.Sc. in Software Engineering, Outstanding Undergraduate, GPA 3.88/4, Sep. 2018 
 
 ## News
 
-- **2026.07:** 🏠 Personal academic homepage created with GitHub Pages, Jekyll, and Academic Pages.
-- **2026:** ✅ *Automated Localization of Affected Libraries and Versions from Vulnerability Reports* appeared in *IEEE Transactions on Software Engineering*.
-- **2026:** ✅ *One Size Does Not Fit All* appeared in *ACM Transactions on Software Engineering and Methodology*.
-- **2026:** ✅ *Towards Robust Detection for Malicious Injection Variants* appeared in *IEEE Transactions on Software Engineering*.
-- **2026.03:** 📝 *APISENSOR* was posted as an arXiv preprint.
-- **2025:** 🎉 *Securing Self-Managed Third-Party Libraries* was accepted by ASE 2025.
-- **2025:** 📝 *BacAlarm* and *Leveraging Self-Paced Learning for Software Vulnerability Detection* were posted as arXiv preprints.
-- **2025:** ✅ *DLAP* was published in *Journal of Systems and Software*.
-- **2025:** ✅ Work on affected library detection from vulnerability reports was published in *Automated Software Engineering*.
+- **2026.05.25:** 🎓 I received CSC funding to visit Nanyang Technological University, Singapore, as a joint-training Ph.D. student.
+- **2026.03:** ✅ Our paper **Automated Localization of Affected Libraries and Versions from Vulnerability Reports** appeared in *IEEE Transactions on Software Engineering*.
+- **2026.03:** ✅ Our paper **One Size Does Not Fit All: Investigating Efficacy of Perplexity in Detecting LLM-Generated Code** appeared in *ACM Transactions on Software Engineering and Methodology*.
+- **2026.03:** 📝 Our paper **APISENSOR: Robust Discovery of Web API from Runtime Traffic Logs** was posted as an arXiv preprint.
+- **2026.01:** ✅ Our paper **Towards Robust Detection for Malicious Injection Variants** appeared in *IEEE Transactions on Software Engineering*.
+- **2025.12:** 🎉 Our paper **Securing Self-Managed Third-Party Libraries** was accepted by ASE 2025.
+- **2025.12:** 📝 Our papers **BacAlarm: Mining and Simulating Composite API Traffic to Prevent Broken Access Control Violations** and **Leveraging Self-Paced Learning for Software Vulnerability Detection** were posted as arXiv preprints.
+- **2025.08:** ✅ Our paper **Automated Detection of Affected Libraries from Vulnerability Reports** appeared in *Automated Software Engineering*.
+- **2025.08:** ✅ Our paper **一种基于大语言模型的多来源漏洞影响库识别方法** appeared in *计算机学报*.
+- **2025.03:** ✅ Our paper **DLAP: A Deep Learning Augmented Large Language Model Prompting Framework for Software Vulnerability Detection** was published in *Journal of Systems and Software*.
 
 ## Selected Publications
 
@@ -50,13 +51,13 @@ B.Sc. in Software Engineering, Outstanding Undergraduate, GPA 3.88/4, Sep. 2018 
 
 J. Xu, H. Zhang, X. Zhou, **Yanjing Yang**, J. Hu, X. Li, L. Yang, B. Liu  
 *IEEE Transactions on Software Engineering*, 2026  
-**Status:** Published. **Rank:** CCF A; CAS 1区 TOP; SCI Q1; EI
+**Status:** Published. **Rank:** CCF A; CAS 1区 TOP
 
 ### ✅ One Size Does Not Fit All: Investigating Efficacy of Perplexity in Detecting LLM-Generated Code
 
 J. Xu, H. Zhang, **Yanjing Yang**, L. Yang, Z. Cheng, J. Lyu, B. Liu, X. Zhou, A. Bacchelli, K. C. Yin, K. C. Thiam  
 *ACM Transactions on Software Engineering and Methodology*, 35(5), 1-34, 2026  
-**Status:** Published. **Rank:** CCF A; CAS 1区 TOP; SCI Q1; EI  
+**Status:** Published. **Rank:** CCF A; CAS 1区 TOP  
 [ACM](https://dl.acm.org/doi/abs/10.1145/3748506) / [arXiv](https://arxiv.org/abs/2412.16525)
 
 ### 📝 APISENSOR: Robust Discovery of Web API from Runtime Traffic Logs
@@ -70,7 +71,7 @@ J. Xu, H. Zhang, **Yanjing Yang**, L. Yang, Z. Cheng, J. Lyu, B. Liu, X. Zhou, A
 
 **Yanjing Yang**, B. Liu, H. Zhang, J. Xu, X. Zhou, J. Lyu, Z. Mao, D. Pan  
 *IEEE Transactions on Software Engineering*, 2026  
-**Status:** Published. **Rank:** CCF A; CAS 1区 TOP; SCI Q1; EI  
+**Status:** Published. **Rank:** CCF A; CAS 1区 TOP  
 [IEEE](https://www.computer.org/csdl/journal/ts/5555/01/11360768/2dw1f21TKAU)
 
 ### 📝 BacAlarm: Mining and Simulating Composite API Traffic to Prevent Broken Access Control Violations
@@ -97,7 +98,13 @@ Z. Cheng*, **Yanjing Yang***, H. Zhang, L. Yang, J. Hu, J. Xu, B. Liu, H. Shen
 
 J. Xu, H. Zhang, X. Zhou, **Yanjing Yang**, R. Mao, X. Li, L. Yang, H. Shen  
 *Automated Software Engineering*, 32(2), 73, 2025  
-**Status:** Published. **Rank:** CCF B; CAS 4区; SCI Q2; EI
+**Status:** Published. **Rank:** CCF B; CAS 4区
+
+### ✅ 一种基于大语言模型的多来源漏洞影响库识别方法
+
+**Yanjing Yang**, et al.  
+*计算机学报*, 2025  
+**Status:** Published. **Rank:** CCF A (Chinese)
 
 ### 📝 Enhancing the Accuracy and Comprehensibility in Architectural Tactics Detection via Small Model-Augmented Prompt Engineering
 
@@ -110,14 +117,14 @@ L. Cao, H. Zhang, S. Li, D. Li, **Yanjing Yang**, C. Zhong, X. Zhou, Y. Xie
 
 **Yanjing Yang**, X. Zhou, R. Mao, J. Xu, L. Yang, Y. Zhang, H. Shen, H. Zhang  
 *Journal of Systems and Software*, 219, 112234, 2025  
-**Status:** Published. **Rank:** CCF B; CAS 2区; SCI Q2; EI  
+**Status:** Published. **Rank:** CCF B; CAS 2区  
 [ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0164121224002784)
 
-### ✅ Robustness Verification Method for Artificial Intelligence Systems Based on Source Code Processing
+### ✅ 源码处理场景下人工智能系统鲁棒性验证方法
 
-**Yanjing Yang**, R. Mao, R. Tan, H. Shen, G. Rong  
-*Journal of Software*, 33(9), 1-19, 2023  
-**Status:** Published. **Rank:** CCF None; EI; CSCD Core; PKU Core
+**杨焱景**, 毛润丰, 谭睿, 沈海峰, 荣国平  
+*软件学报*, 33(9), 1-19, 2023  
+**Status:** Published. **Rank:** CCF None
 
 ### ✅ MSPLD: Shilling Attack Detection Model Based on Meta Self-Paced Learning
 
