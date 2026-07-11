@@ -11,26 +11,13 @@ author_profile: true
 
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
+{% assign ordered_publications = "/publication/2025-01-02-robust-injection|/publication/2025-11-01-splvd|/publication/2025-12-01-bacalarm|/publication/2023-01-01-robustness-verification|/publication/2025-01-01-dlap|/publication/2026-03-01-apisensor|/publication/2021-01-01-mspld|/publication/2026-01-02-one-size|/publication/2026-01-01-automated-localization|/publication/2025-09-01-self-managed-libraries|/publication/2025-08-01-computer-journal-llm-libraries|/publication/2026-07-01-openharmony-issre|/publication/2025-04-01-automated-detection-affected-libraries|/publication/2025-03-01-architectural-tactics" | split: "|" %}
+
+{% for item_url in ordered_publications %}
+  {% for pub in site.publications %}
+    {% if pub.permalink == item_url %}
+      {% assign post = pub %}
       {% include archive-single.html %}
-    {% endfor %}
+    {% endif %}
   {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
-
-
-
+{% endfor %}
