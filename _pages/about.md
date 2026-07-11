@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yanjing Yang"
+title: "Yanjing Yang (杨焱景)"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,20 +9,20 @@ redirect_from:
 
 ## Biography
 
-I am a direct-admission Ph.D. student in Software Engineering at the State Key Laboratory of New Technology of Computer Software, Nanjing University. My research focuses on source code security and API security, especially large language model based vulnerability detection, robustness and generalization of vulnerability detection models, and agentic AI for API security analysis.
+I am a direct-admission Ph.D. student in Software Engineering at the State Key Laboratory of New Technology of Computer Software, Nanjing University. My research focuses on source code security and API security, especially large language model based vulnerability detection, robustness and generalization of vulnerability detection models, agentic AI for API security analysis, and API breaking-change analysis.
 
-In software security, I study how LLM agents can support vulnerability detection and how vulnerability reports drive code changes across the software supply chain. In API security, I work on agent-based analysis of API entry points, calling processes, malicious payloads, abnormal API call patterns, and broken access control risks.
+I am advised by Prof. He Zhang, a National High-Level Overseas Talent Program ("Thousand Talents Plan") scholar at Nanjing University. I am also glad to collaborate with Assistant Professor Bohan Liu at NJU. Supported by CSC, I am currently collaborating with Prof. Lyuye Zhang and Prof. Yang Liu at Nanyang Technological University.
+
+In software security, I study how LLM agents can support source code vulnerability detection and how vulnerability reports drive code changes across the software supply chain. In API security, I work on agent-based analysis of API entry points, API breaking changes, calling processes, malicious payloads, abnormal API call patterns, and broken access control risks.
 
 [CV](/files/Nanjing_University_Yanjing_Yang.pdf) / [Google Scholar](https://scholar.google.com/citations?user=wAdyKuUAAAAJ&hl=en) / [GitHub](https://github.com/Yang-Yanjing)
 
 ## Research Interests
 
-- Software engineering and software security
-- Source code vulnerability detection
-- API security and API misuse analysis
-- LLM agents for program analysis and security review
-- Robustness and generalization of AI-based vulnerability detection
-- Software supply chain security and vulnerability report analysis
+1. Source code vulnerability detection and LLM agents for program analysis and security review
+2. API security and API breaking-change analysis
+3. Robustness and generalization of AI-based vulnerability detection
+4. Software supply chain security and vulnerability report analysis
 
 ## Education
 
@@ -50,13 +50,13 @@ B.Sc. in Software Engineering, Outstanding Undergraduate, GPA 3.88/4, Sep. 2018 
 
 J. Xu, H. Zhang, X. Zhou, **Yanjing Yang**, J. Hu, X. Li, L. Yang, B. Liu  
 *IEEE Transactions on Software Engineering*, 2026  
-**Status:** Published. **CCF:** None
+**Status:** Published. **Rank:** CCF A; CAS 1区 TOP; SCI Q1; EI
 
 ### ✅ One Size Does Not Fit All: Investigating Efficacy of Perplexity in Detecting LLM-Generated Code
 
 J. Xu, H. Zhang, **Yanjing Yang**, L. Yang, Z. Cheng, J. Lyu, B. Liu, X. Zhou, A. Bacchelli, K. C. Yin, K. C. Thiam  
 *ACM Transactions on Software Engineering and Methodology*, 35(5), 1-34, 2026  
-**Status:** Published. **CCF:** A  
+**Status:** Published. **Rank:** CCF A; CAS 1区 TOP; SCI Q1; EI  
 [ACM](https://dl.acm.org/doi/abs/10.1145/3748506) / [arXiv](https://arxiv.org/abs/2412.16525)
 
 ### 📝 APISENSOR: Robust Discovery of Web API from Runtime Traffic Logs
@@ -70,7 +70,7 @@ J. Xu, H. Zhang, **Yanjing Yang**, L. Yang, Z. Cheng, J. Lyu, B. Liu, X. Zhou, A
 
 **Yanjing Yang**, B. Liu, H. Zhang, J. Xu, X. Zhou, J. Lyu, Z. Mao, D. Pan  
 *IEEE Transactions on Software Engineering*, 2026  
-**Status:** Published. **CCF:** None  
+**Status:** Published. **Rank:** CCF A; CAS 1区 TOP; SCI Q1; EI  
 [IEEE](https://www.computer.org/csdl/journal/ts/5555/01/11360768/2dw1f21TKAU)
 
 ### 📝 BacAlarm: Mining and Simulating Composite API Traffic to Prevent Broken Access Control Violations
@@ -83,7 +83,7 @@ J. Xu, H. Zhang, **Yanjing Yang**, L. Yang, Z. Cheng, J. Lyu, B. Liu, X. Zhou, A
 
 X. Zhou, J. Xu, H. Zhang, **Yanjing Yang**, L. Yang, B. Liu, H. Tang  
 *40th IEEE/ACM International Conference on Automated Software Engineering*, 2025  
-**Status:** Accepted / Conference paper. **CCF:** A
+**Status:** Accepted / Conference paper. **Rank:** CCF A
 
 ### 📝 Leveraging Self-Paced Learning for Software Vulnerability Detection
 
@@ -97,7 +97,7 @@ Z. Cheng*, **Yanjing Yang***, H. Zhang, L. Yang, J. Hu, J. Xu, B. Liu, H. Shen
 
 J. Xu, H. Zhang, X. Zhou, **Yanjing Yang**, R. Mao, X. Li, L. Yang, H. Shen  
 *Automated Software Engineering*, 32(2), 73, 2025  
-**Status:** Published. **CCF:** B
+**Status:** Published. **Rank:** CCF B; CAS 4区; SCI Q2; EI
 
 ### 📝 Enhancing the Accuracy and Comprehensibility in Architectural Tactics Detection via Small Model-Augmented Prompt Engineering
 
@@ -110,20 +110,20 @@ L. Cao, H. Zhang, S. Li, D. Li, **Yanjing Yang**, C. Zhong, X. Zhou, Y. Xie
 
 **Yanjing Yang**, X. Zhou, R. Mao, J. Xu, L. Yang, Y. Zhang, H. Shen, H. Zhang  
 *Journal of Systems and Software*, 219, 112234, 2025  
-**Status:** Published. **CCF:** B  
+**Status:** Published. **Rank:** CCF B; CAS 2区; SCI Q2; EI  
 [ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0164121224002784)
 
 ### ✅ Robustness Verification Method for Artificial Intelligence Systems Based on Source Code Processing
 
 **Yanjing Yang**, R. Mao, R. Tan, H. Shen, G. Rong  
 *Journal of Software*, 33(9), 1-19, 2023  
-**Status:** Published. **CCF:** None
+**Status:** Published. **Rank:** CCF None; EI; CSCD Core; PKU Core
 
 ### ✅ MSPLD: Shilling Attack Detection Model Based on Meta Self-Paced Learning
 
 **Yanjing Yang**, M. Gao, Y. Li, F. Wu, J. Wang, Q. Zhao  
 *International Joint Conference on Neural Networks*, 1-8, 2021  
-**Status:** Published / Oral Presentation. **CCF:** C
+**Status:** Published / Oral Presentation. **Rank:** CCF C
 
 ## Research Projects
 
@@ -157,12 +157,6 @@ We used agentic AI to enhance API security by detecting malicious payloads and a
 - China Optics Valley Scholarship, 2023
 - Outstanding Graduate Student Leader, 2023
 - Second Prize in the National Software Innovation Competition, 2022
-
-## Work In Progress
-
-### Towards Robust Vulnerability Detection: Agentic-AI-Constructed Meta Data for Meta Self-Paced Noise-Robust Learning
-
-This research explores how to teach AI to detect software vulnerabilities in a way that mirrors human learning: starting from simpler, more reliable examples and gradually moving to harder ones. We use agentic AI to build a clean and trustworthy meta dataset, which guides a meta self-paced learning process and improves robustness to noisy real-world labels.
 
 ## Contact
 

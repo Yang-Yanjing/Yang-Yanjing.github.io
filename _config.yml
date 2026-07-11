@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Yanjing Yang"
+title                    : "Yanjing Yang (杨焱景)"
 title_separator          : "-"
-name                     : &name "Yanjing Yang"
-description              : &description "Academic homepage of Yanjing Yang"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name "Yanjing Yang (杨焱景)"
+description              : &description "Academic homepage of Yanjing Yang (杨焱景)"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://yang-yanjing.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,7 +24,7 @@ repository               : "Yang-Yanjing/Yang-Yanjing.github.io"
 author:
   # Biographic information
   avatar           : "pensonal.jpg"
-  name             : "Yanjing Yang"
+  name             : "Yanjing Yang (杨焱景)"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. student in software engineering, software security, and API security"
   location         : "Nanjing, China"

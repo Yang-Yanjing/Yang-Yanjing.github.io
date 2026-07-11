@@ -1,10 +1,10 @@
 {
   "basics": {
-    "name": "Yanjing Yang",
+    "name": "Yanjing Yang (杨焱景)",
     "email": "yj_yang@smail.nju.edu.cn",
     "phone": "",
     "website": "https://yang-yanjing.github.io",
-    "summary": "Direct-admission Ph.D. student in Software Engineering at Nanjing University. Research interests include source code security, API security, LLM-based vulnerability detection, and agentic AI for security analysis.",
+    "summary": "Direct-admission Ph.D. student in Software Engineering at Nanjing University. Research interests include source code security, API security and API breaking-change analysis, LLM-based vulnerability detection, and robustness of AI-based vulnerability detection.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -74,7 +74,7 @@
       "keywords": [
         "Software security",
         "Source code vulnerability detection",
-        "API security",
+        "API security and API breaking-change analysis",
         "Program analysis",
         "Large language models for code",
         "Agentic AI"
@@ -90,14 +90,14 @@
       "publisher": "IEEE Transactions on Software Engineering",
       "releaseDate": "2026",
       "website": "",
-      "summary": "Published. CCF: None. J. Xu, H. Zhang, X. Zhou, Y. Yang, J. Hu, X. Li, L. Yang, B. Liu."
+      "summary": "Published. CCF A; CAS 1区 TOP; SCI Q1; EI. J. Xu, H. Zhang, X. Zhou, Y. Yang, J. Hu, X. Li, L. Yang, B. Liu."
     },
     {
       "name": "One Size Does Not Fit All: Investigating Efficacy of Perplexity in Detecting LLM-Generated Code",
       "publisher": "ACM Transactions on Software Engineering and Methodology",
       "releaseDate": "2026",
       "website": "https://dl.acm.org/doi/abs/10.1145/3748506",
-      "summary": "Published. CCF: A. J. Xu, H. Zhang, Y. Yang, L. Yang, Z. Cheng, J. Lyu, B. Liu, X. Zhou, A. Bacchelli, K. C. Yin, K. C. Thiam."
+      "summary": "Published. CCF A; CAS 1区 TOP; SCI Q1; EI. J. Xu, H. Zhang, Y. Yang, L. Yang, Z. Cheng, J. Lyu, B. Liu, X. Zhou, A. Bacchelli, K. C. Yin, K. C. Thiam."
     },
     {
       "name": "APISENSOR: Robust Discovery of Web API from Runtime Traffic Logs",
@@ -111,7 +111,7 @@
       "publisher": "IEEE Transactions on Software Engineering",
       "releaseDate": "2026",
       "website": "https://www.computer.org/csdl/journal/ts/5555/01/11360768/2dw1f21TKAU",
-      "summary": "Published. CCF: None. Y. Yang, B. Liu, H. Zhang, J. Xu, X. Zhou, J. Lyu, Z. Mao, D. Pan."
+      "summary": "Published. CCF A; CAS 1区 TOP; SCI Q1; EI. Y. Yang, B. Liu, H. Zhang, J. Xu, X. Zhou, J. Lyu, Z. Mao, D. Pan."
     },
     {
       "name": "BacAlarm: Mining and Simulating Composite API Traffic to Prevent Broken Access Control Violations",
@@ -125,7 +125,7 @@
       "publisher": "40th IEEE/ACM International Conference on Automated Software Engineering",
       "releaseDate": "2025",
       "website": "",
-      "summary": "Accepted / conference paper. CCF: A. X. Zhou, J. Xu, H. Zhang, Y. Yang, L. Yang, B. Liu, H. Tang."
+      "summary": "Accepted / conference paper. CCF A. X. Zhou, J. Xu, H. Zhang, Y. Yang, L. Yang, B. Liu, H. Tang."
     },
     {
       "name": "Leveraging Self-Paced Learning for Software Vulnerability Detection",
@@ -139,7 +139,7 @@
       "publisher": "Automated Software Engineering",
       "releaseDate": "2025",
       "website": "",
-      "summary": "Published. CCF: B. J. Xu, H. Zhang, X. Zhou, Y. Yang, R. Mao, X. Li, L. Yang, H. Shen."
+      "summary": "Published. CCF B; CAS 4区; SCI Q2; EI. J. Xu, H. Zhang, X. Zhou, Y. Yang, R. Mao, X. Li, L. Yang, H. Shen."
     },
     {
       "name": "Enhancing the Accuracy and Comprehensibility in Architectural Tactics Detection via Small Model-Augmented Prompt Engineering",
@@ -153,21 +153,21 @@
       "publisher": "Journal of Systems and Software",
       "releaseDate": "2025",
       "website": "https://www.sciencedirect.com/science/article/abs/pii/S0164121224002784",
-      "summary": "Published. CCF: B. Y. Yang, X. Zhou, R. Mao, J. Xu, L. Yang, Y. Zhang, H. Shen, H. Zhang."
+      "summary": "Published. CCF B; CAS 2区; SCI Q2; EI. Y. Yang, X. Zhou, R. Mao, J. Xu, L. Yang, Y. Zhang, H. Shen, H. Zhang."
     },
     {
       "name": "Robustness Verification Method for Artificial Intelligence Systems Based on Source Code Processing",
       "publisher": "Journal of Software",
       "releaseDate": "2023",
       "website": "",
-      "summary": "Published. CCF: None. Y. Yang, R. Mao, R. Tan, H. Shen, G. Rong."
+      "summary": "Published. CCF None; EI; CSCD Core; PKU Core. Y. Yang, R. Mao, R. Tan, H. Shen, G. Rong."
     },
     {
       "name": "MSPLD: Shilling Attack Detection Model Based on Meta Self-Paced Learning",
       "publisher": "International Joint Conference on Neural Networks",
       "releaseDate": "2021",
       "website": "",
-      "summary": "Published / Oral Presentation. CCF: C. Y. Yang, M. Gao, Y. Li, F. Wu, J. Wang, Q. Zhao."
+      "summary": "Published / Oral Presentation. CCF C. Y. Yang, M. Gao, Y. Li, F. Wu, J. Wang, Q. Zhao."
     }
   ],
   "presentations": [],
