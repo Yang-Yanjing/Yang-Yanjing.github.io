@@ -1,0 +1,113 @@
+{
+  "basics": {
+    "name": "Yanjing Yang",
+    "email": "yj_yang@smail.nju.edu.cn",
+    "phone": "",
+    "website": "https://yang-yanjing.github.io",
+    "summary": "Direct-admission Ph.D. student in Software Engineering at Nanjing University. Research interests include source code security, API security, LLM-based vulnerability detection, and agentic AI for security analysis.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Nanjing",
+      "countryCode": "CN",
+      "region": "Jiangsu"
+    },
+    "profiles": [
+      {
+        "network": "Google Scholar",
+        "username": "Yanjing Yang",
+        "url": "https://scholar.google.com/citations?user=wAdyKuUAAAAJ&hl=en"
+      },
+      {
+        "network": "GitHub",
+        "username": "Yang-Yanjing",
+        "url": "https://github.com/Yang-Yanjing"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "CCF Populus Grove Project",
+      "position": "Researcher, Multi-Agent Collaboration Task Error Detection",
+      "startDate": "2025-09",
+      "endDate": "",
+      "summary": "Anomaly detection and feedback for multi-agent collaboration systems in code generation."
+    },
+    {
+      "name": "CCF Populus Grove Project",
+      "position": "Researcher, Vulnerability Detection Based on LLM in OpenHarmony",
+      "startDate": "2024-09",
+      "endDate": "2025-08",
+      "summary": "Fine-tuned LLMs with HarmonyOS vulnerability information and optimized vulnerability detection models."
+    },
+    {
+      "name": "CCF Populus Grove Project",
+      "position": "Researcher, PaaS API Security Guardrail",
+      "startDate": "2024-03",
+      "endDate": "2024-08",
+      "summary": "Designed core algorithms for agentic AI based API security, including black-box API discovery and detection of malicious payloads and abnormal API call patterns."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Nanjing University",
+      "area": "Software Engineering",
+      "studyType": "Direct-admission Ph.D. student",
+      "startDate": "2022-09",
+      "endDate": "",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "Chongqing University",
+      "area": "Software Engineering",
+      "studyType": "B.Sc.",
+      "startDate": "2018-09",
+      "endDate": "2022-07",
+      "gpa": "3.88/4",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Research Areas",
+      "keywords": [
+        "Software security",
+        "Source code vulnerability detection",
+        "API security",
+        "Program analysis",
+        "Large language models for code",
+        "Agentic AI"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "publications": [
+    {
+      "name": "DLAP: A Deep Learning Augmented Large Language Model Prompting Framework for Software Vulnerability Detection",
+      "publisher": "Journal of Systems and Software",
+      "releaseDate": "2025",
+      "website": "",
+      "summary": "Yanjing Yang, X. Zhou, R. Mao, J. Xu, L. Yang, Y. Zhang, H. Shen, H. Zhang."
+    },
+    {
+      "name": "Towards Robust Detection for Malicious Injection Variants",
+      "publisher": "IEEE Transactions on Software Engineering",
+      "releaseDate": "Under revision",
+      "website": "",
+      "summary": "Yanjing Yang, B. Liu, H. Zhang, J. Xu, X. Zhou, J. Lyu, Z. Mao, D. Pan."
+    },
+    {
+      "name": "MSPLD: Shilling Attack Detection Model Based on Meta Self-Paced Learning",
+      "publisher": "International Joint Conference on Neural Networks",
+      "releaseDate": "2021",
+      "website": "",
+      "summary": "Oral presentation."
+    }
+  ],
+  "presentations": [],
+  "teaching": [],
+  "portfolio": []
+}
