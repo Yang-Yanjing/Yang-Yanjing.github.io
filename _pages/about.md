@@ -73,8 +73,8 @@ Z. Cheng*, **Yanjing Yang*** (Equal contribution), H. Zhang, L. Yang, J. Hu, J. 
 
 ### 源码处理场景下人工智能系统鲁棒性验证方法
 
-**杨焱景**, 毛润丰, 谭睿, 沈海峰, 荣国平
-*软件学报*, 33(9), 1-19, 2023
+**杨焱景**, 毛润丰, 谭睿, 沈海峰, 荣国平  
+*软件学报*, 33(9), 1-19, 2023  
 **Status:** Published. **Rank:** CCF A (Chinese)
 
 ### DLAP: A Deep Learning Augmented Large Language Model Prompting Framework for Software Vulnerability Detection
