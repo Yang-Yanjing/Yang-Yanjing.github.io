@@ -9,7 +9,7 @@ redirect_from:
 
 ## Biography
 
-I am a direct-admission Ph.D. Candidate in Software Engineering at the State Key Laboratory of New Technology of Computer Software, Nanjing University. My research focuses on source code security and API security, especially large language model based vulnerability detection, robustness and generalization of vulnerability detection models, agentic AI for API security analysis, and API breaking-change analysis.
+I am a direct-admission Ph.D. Candidate in Software Engineering at the State Key Laboratory of New Technology of Computer Software, Nanjing University. My research focuses on API security and API compatibility, especially API breaking-change analysis, large language model based security analysis, agentic AI for API security analysis, software vulnerability detection, and software supply chain security.
 
 I am advised by Prof. **He Zhang**, a National High-Level Overseas Talent Program ("Thousand Talents Plan") scholar at Nanjing University. During my undergraduate studies at Chongqing University, Prof. **Min Gao** introduced me to academic research through the study of **MSPLD**. I am also honored to collaborate with Assistant Professor **Bohan Liu** at NJU. Supported by CSC, I am currently collaborating with Prof. **Lyuye Zhang** at Nanyang Technological University and Nankai University, and Prof. **Yang Liu**, a world-leading software engineering expert, at Nanyang Technological University.
 
