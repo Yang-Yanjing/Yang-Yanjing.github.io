@@ -8,4 +8,4 @@ venue: "IEEE International Symposium on Software Reliability Engineering"
 citation: "Mao R, Zhang H, Yang Y, Jia J, Yang L, Zhou X, Shen H. Towards Effective Vulnerability Detection on OpenHarmony. IEEE International Symposium on Software Reliability Engineering, 2026."
 ---
 
-🎤 Accepted / conference paper. Rank: CCF B.
+Accepted / conference paper. Rank: CCF B.

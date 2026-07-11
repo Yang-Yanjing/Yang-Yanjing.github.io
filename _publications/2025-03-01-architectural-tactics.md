@@ -9,4 +9,4 @@ paperurl: "https://arxiv.org/abs/2503.03609"
 citation: "Cao L, Zhang H, Li S, Li D, Yang Y, Zhong C, Zhou X, Xie Y. Enhancing the Accuracy and Comprehensibility in Architectural Tactics Detection via Small Model-Augmented Prompt Engineering. arXiv:2503.03609, 2025."
 ---
 
-📝 Preprint.
+Preprint.
