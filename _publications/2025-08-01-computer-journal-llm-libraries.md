@@ -8,4 +8,4 @@ venue: "计算机学报"
 citation: "Yang Y, et al. 一种基于大语言模型的多来源漏洞影响库识别方法. 计算机学报, 2025."
 ---
 
-✅ Published. Rank: CCF A (Chinese).
+📄 Published. Rank: CCF A (Chinese).

@@ -38,9 +38,9 @@ Publications
 - [Preprint, under review at IEEE TSC] Yang Y, Zhang H*, Zhong C, Cheng Z, Zhou X*, Xu J, Han K, Liu B. APISENSOR: Robust Discovery of Web API from Runtime Traffic Logs. arXiv:2603.23852, 2026.
 - [Accepted, CCF A, 中科院SCI 1区 TOP] Yang Y, Liu B, Zhang H, Xu J, Zhou X, Lyu J, Mao Z, Pan D. Towards Robust Detection for Malicious Injection Variants. IEEE Transactions on Software Engineering, 2026.
 - [Preprint, under review at IEEE TSE] Yang Y, Zhang H, Liu B, Xu J, Hu J, Dong L, Mao Z, Pan D. BacAlarm: Mining and Simulating Composite API Traffic to Prevent Broken Access Control Violations. arXiv:2512.19997, 2025.
-- [Preprint] Cheng Z*, Yang Y* (Equal contribution), Zhang H, Yang L, Hu J, Xu J, Liu B, Shen H. Leveraging Self-Paced Learning for Software Vulnerability Detection. arXiv:2511.09212, 2025.
+- [Preprint; minor revision by TOSEM, CCF A, 中科院SCI 1区 TOP] Cheng Z*, Yang Y* (Equal contribution), Zhang H, Yang L, Hu J, Xu J, Liu B, Shen H. Leveraging Self-Paced Learning for Software Vulnerability Detection. arXiv:2511.09212, 2025.
 - [Published, CCF B, 中科院SCI 2区] Yang Y, Zhou X, Mao R, Xu J, Yang L, Zhang Y, Shen H, Zhang H. DLAP: A Deep Learning Augmented Large Language Model Prompting Framework for Software Vulnerability Detection. Journal of Systems and Software, 219, 112234, 2025.
-- [Published, CCF None] 杨焱景, 毛润丰, 谭睿, 沈海峰, 荣国平. 源码处理场景下人工智能系统鲁棒性验证方法. 软件学报, 33(9), 1-19, 2023.
+- [Published, CCF A Chinese] 杨焱景, 毛润丰, 谭睿, 沈海峰, 荣国平. 源码处理场景下人工智能系统鲁棒性验证方法. 软件学报, 33(9), 1-19, 2023.
 - [Published, CCF C] Yang Y, Gao M, Li Y, Wu F, Wang J, Zhao Q. MSPLD: Shilling Attack Detection Model Based on Meta Self-Paced Learning. International Joint Conference on Neural Networks, 1-8, 2021.
 - [Published, CCF A, 中科院SCI 1区 TOP] Xu J, Zhang H, Yang Y, Yang L, Cheng Z, Lyu J, Liu B, Zhou X, Bacchelli A, Yin KC, Thiam KC. One Size Does Not Fit All: Investigating Efficacy of Perplexity in Detecting LLM-Generated Code. ACM Transactions on Software Engineering and Methodology, 35(5), 1-34, 2026.
 - [Accepted, CCF A, 中科院SCI 1区 TOP] Xu J, Zhang H, Zhou X, Yang Y, Hu J, Li X, Yang L, Liu B. Automated Localization of Affected Libraries and Versions from Vulnerability Reports. IEEE Transactions on Software Engineering, 2026.
