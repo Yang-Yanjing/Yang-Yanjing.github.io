@@ -38,7 +38,7 @@ Skills
 
 Publications
 ======
-- [Accepted, CCF B] Yang Y, et al. Towards Effective Vulnerability Detection on OpenHarmony. IEEE International Symposium on Software Reliability Engineering, 2026.
+- [Accepted, CCF B] Mao R, Zhang H, Yang Y, Jia J, Yang L, Zhou X, Shen H. Towards Effective Vulnerability Detection on OpenHarmony. IEEE International Symposium on Software Reliability Engineering, 2026.
 - [Preprint, under review at IEEE TSC] Yang Y, Zhang H*, Zhong C, Cheng Z, Zhou X*, Xu J, Han K, Liu B. APISENSOR: Robust Discovery of Web API from Runtime Traffic Logs. arXiv:2603.23852, 2026.
 - [Accepted, CCF A, 中科院SCI 1区 TOP] Yang Y, Liu B, Zhang H, Xu J, Zhou X, Lyu J, Mao Z, Pan D. Towards Robust Detection for Malicious Injection Variants. IEEE Transactions on Software Engineering, 2026.
 - [Preprint, under review at IEEE TSE] Yang Y, Zhang H, Liu B, Xu J, Hu J, Dong L, Mao Z, Pan D. BacAlarm: Mining and Simulating Composite API Traffic to Prevent Broken Access Control Violations. arXiv:2512.19997, 2025.

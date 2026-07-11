@@ -53,7 +53,7 @@ B.Sc. in Software Engineering, Outstanding Undergraduate, GPA 3.88/4, Sep. 2018 
 
 ### 🎤 Towards Effective Vulnerability Detection on OpenHarmony
 
-**Yanjing Yang**, et al.  
+R. Mao, H. Zhang, **Yanjing Yang**, J. Jia, L. Yang, X. Zhou, H. Shen  
 *IEEE International Symposium on Software Reliability Engineering*, 2026  
 **Status:** Accepted / Conference paper. **Rank:** CCF B
 
