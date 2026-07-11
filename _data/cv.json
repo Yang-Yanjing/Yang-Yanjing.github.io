@@ -86,25 +86,88 @@
   "references": [],
   "publications": [
     {
-      "name": "DLAP: A Deep Learning Augmented Large Language Model Prompting Framework for Software Vulnerability Detection",
-      "publisher": "Journal of Systems and Software",
-      "releaseDate": "2025",
+      "name": "Automated Localization of Affected Libraries and Versions from Vulnerability Reports",
+      "publisher": "IEEE Transactions on Software Engineering",
+      "releaseDate": "2026",
       "website": "",
-      "summary": "Yanjing Yang, X. Zhou, R. Mao, J. Xu, L. Yang, Y. Zhang, H. Shen, H. Zhang."
+      "summary": "Published. CCF: None. J. Xu, H. Zhang, X. Zhou, Y. Yang, J. Hu, X. Li, L. Yang, B. Liu."
+    },
+    {
+      "name": "One Size Does Not Fit All: Investigating Efficacy of Perplexity in Detecting LLM-Generated Code",
+      "publisher": "ACM Transactions on Software Engineering and Methodology",
+      "releaseDate": "2026",
+      "website": "https://dl.acm.org/doi/abs/10.1145/3748506",
+      "summary": "Published. CCF: A. J. Xu, H. Zhang, Y. Yang, L. Yang, Z. Cheng, J. Lyu, B. Liu, X. Zhou, A. Bacchelli, K. C. Yin, K. C. Thiam."
+    },
+    {
+      "name": "APISENSOR: Robust Discovery of Web API from Runtime Traffic Logs",
+      "publisher": "arXiv preprint arXiv:2603.23852",
+      "releaseDate": "2026",
+      "website": "https://arxiv.org/abs/2603.23852",
+      "summary": "Preprint. Y. Yang, C. Zhong, K. Han, Z. Cheng, J. Xu, X. Zhou, H. Zhang, B. Liu."
     },
     {
       "name": "Towards Robust Detection for Malicious Injection Variants",
       "publisher": "IEEE Transactions on Software Engineering",
-      "releaseDate": "Under revision",
+      "releaseDate": "2026",
+      "website": "https://www.computer.org/csdl/journal/ts/5555/01/11360768/2dw1f21TKAU",
+      "summary": "Published. CCF: None. Y. Yang, B. Liu, H. Zhang, J. Xu, X. Zhou, J. Lyu, Z. Mao, D. Pan."
+    },
+    {
+      "name": "BacAlarm: Mining and Simulating Composite API Traffic to Prevent Broken Access Control Violations",
+      "publisher": "arXiv preprint arXiv:2512.19997",
+      "releaseDate": "2025",
       "website": "",
-      "summary": "Yanjing Yang, B. Liu, H. Zhang, J. Xu, X. Zhou, J. Lyu, Z. Mao, D. Pan."
+      "summary": "Preprint. Y. Yang, H. Zhang, B. Liu, J. Xu, J. Hu, L. Dong, Z. Mao, D. Pan."
+    },
+    {
+      "name": "Securing Self-Managed Third-Party Libraries",
+      "publisher": "40th IEEE/ACM International Conference on Automated Software Engineering",
+      "releaseDate": "2025",
+      "website": "",
+      "summary": "Accepted / conference paper. CCF: A. X. Zhou, J. Xu, H. Zhang, Y. Yang, L. Yang, B. Liu, H. Tang."
+    },
+    {
+      "name": "Leveraging Self-Paced Learning for Software Vulnerability Detection",
+      "publisher": "arXiv preprint arXiv:2511.09212",
+      "releaseDate": "2025",
+      "website": "https://arxiv.org/abs/2511.09212",
+      "summary": "Preprint. Z. Cheng, Y. Yang, H. Zhang, L. Yang, J. Hu, J. Xu, B. Liu, H. Shen."
+    },
+    {
+      "name": "Automated Detection of Affected Libraries from Vulnerability Reports",
+      "publisher": "Automated Software Engineering",
+      "releaseDate": "2025",
+      "website": "",
+      "summary": "Published. CCF: B. J. Xu, H. Zhang, X. Zhou, Y. Yang, R. Mao, X. Li, L. Yang, H. Shen."
+    },
+    {
+      "name": "Enhancing the Accuracy and Comprehensibility in Architectural Tactics Detection via Small Model-Augmented Prompt Engineering",
+      "publisher": "arXiv preprint arXiv:2503.03609",
+      "releaseDate": "2025",
+      "website": "https://arxiv.org/abs/2503.03609",
+      "summary": "Preprint. L. Cao, H. Zhang, S. Li, D. Li, Y. Yang, C. Zhong, X. Zhou, Y. Xie."
+    },
+    {
+      "name": "DLAP: A Deep Learning Augmented Large Language Model Prompting Framework for Software Vulnerability Detection",
+      "publisher": "Journal of Systems and Software",
+      "releaseDate": "2025",
+      "website": "https://www.sciencedirect.com/science/article/abs/pii/S0164121224002784",
+      "summary": "Published. CCF: B. Y. Yang, X. Zhou, R. Mao, J. Xu, L. Yang, Y. Zhang, H. Shen, H. Zhang."
+    },
+    {
+      "name": "Robustness Verification Method for Artificial Intelligence Systems Based on Source Code Processing",
+      "publisher": "Journal of Software",
+      "releaseDate": "2023",
+      "website": "",
+      "summary": "Published. CCF: None. Y. Yang, R. Mao, R. Tan, H. Shen, G. Rong."
     },
     {
       "name": "MSPLD: Shilling Attack Detection Model Based on Meta Self-Paced Learning",
       "publisher": "International Joint Conference on Neural Networks",
       "releaseDate": "2021",
       "website": "",
-      "summary": "Oral presentation."
+      "summary": "Published / Oral Presentation. CCF: C. Y. Yang, M. Gao, Y. Li, F. Wu, J. Wang, Q. Zhao."
     }
   ],
   "presentations": [],

@@ -34,13 +34,18 @@ Skills
 
 Publications
 ======
-- Yang Y, Zhou X, Mao R, Xu J, Yang L, Zhang Y, Shen H, Zhang H. DLAP: A Deep Learning Augmented Large Language Model Prompting Framework for Software Vulnerability Detection. Journal of Systems and Software, 2025.
-- Yang Y, Liu B, Zhang H, Xu J, Zhou X, Lyu J, Mao Z, Pan D. Towards Robust Detection for Malicious Injection Variants. IEEE Transactions on Software Engineering, under revision.
-- Yang Y, Mao R, Tan R, Shen H, Rong G. Robustness Verification Method for Artificial Intelligence Systems Based on Source Code Processing. Journal of Software, 2023.
-- Yang Y, Gao M, Li Y, Wu F, Wang J, Zhao Q. MSPLD: Shilling Attack Detection Model Based on Meta Self-Paced Learning. International Joint Conference on Neural Networks, Oral Presentation, 2021.
-- Xu J, Zhang H, Zhou X, Yang Y, Yang L, Cheng Z, Lyu J, Liu B, Yin KC, Thiam KC. One Size Does Not Fit All: Investigating Efficacy of Perplexity in Detecting LLM-Generated Code. ACM Transactions on Software Engineering and Methodology, 2025.
-- Xu J, Zhang H, Zhou X, Yang Y, Mao R, Li X, Yang L, Shen H. Automated Detection of Affected Libraries from Vulnerability Reports. Automated Software Engineering, 2025.
-- Cheng Z*, Yang Y*, Zhang H, Yang L, Hu J, Xu J, Liu B, Shen H. Leveraging Self-Paced Learning for Software Vulnerability Detection. ACM Transactions on Software Engineering and Methodology, under review.
+- [Published] Xu J, Zhang H, Zhou X, Yang Y, Hu J, Li X, Yang L, Liu B. Automated Localization of Affected Libraries and Versions from Vulnerability Reports. IEEE Transactions on Software Engineering, 2026.
+- [Published] Xu J, Zhang H, Yang Y, Yang L, Cheng Z, Lyu J, Liu B, Zhou X, Bacchelli A, Yin KC, Thiam KC. One Size Does Not Fit All: Investigating Efficacy of Perplexity in Detecting LLM-Generated Code. ACM Transactions on Software Engineering and Methodology, 35(5), 1-34, 2026.
+- [Preprint] Yang Y, Zhong C, Han K, Cheng Z, Xu J, Zhou X, Zhang H, Liu B. APISENSOR: Robust Discovery of Web API from Runtime Traffic Logs. arXiv:2603.23852, 2026.
+- [Published] Yang Y, Liu B, Zhang H, Xu J, Zhou X, Lyu J, Mao Z, Pan D. Towards Robust Detection for Malicious Injection Variants. IEEE Transactions on Software Engineering, 2026.
+- [Preprint] Yang Y, Zhang H, Liu B, Xu J, Hu J, Dong L, Mao Z, Pan D. BacAlarm: Mining and Simulating Composite API Traffic to Prevent Broken Access Control Violations. arXiv:2512.19997, 2025.
+- [Accepted] Zhou X, Xu J, Zhang H, Yang Y, Yang L, Liu B, Tang H. Securing Self-Managed Third-Party Libraries. 40th IEEE/ACM International Conference on Automated Software Engineering, 2025.
+- [Preprint] Cheng Z*, Yang Y*, Zhang H, Yang L, Hu J, Xu J, Liu B, Shen H. Leveraging Self-Paced Learning for Software Vulnerability Detection. arXiv:2511.09212, 2025.
+- [Published] Xu J, Zhang H, Zhou X, Yang Y, Mao R, Li X, Yang L, Shen H. Automated Detection of Affected Libraries from Vulnerability Reports. Automated Software Engineering, 32(2), 73, 2025.
+- [Preprint] Cao L, Zhang H, Li S, Li D, Yang Y, Zhong C, Zhou X, Xie Y. Enhancing the Accuracy and Comprehensibility in Architectural Tactics Detection via Small Model-Augmented Prompt Engineering. arXiv:2503.03609, 2025.
+- [Published] Yang Y, Zhou X, Mao R, Xu J, Yang L, Zhang Y, Shen H, Zhang H. DLAP: A Deep Learning Augmented Large Language Model Prompting Framework for Software Vulnerability Detection. Journal of Systems and Software, 219, 112234, 2025.
+- [Published] Yang Y, Mao R, Tan R, Shen H, Rong G. Robustness Verification Method for Artificial Intelligence Systems Based on Source Code Processing. Journal of Software, 33(9), 1-19, 2023.
+- [Published] Yang Y, Gao M, Li Y, Wu F, Wang J, Zhao Q. MSPLD: Shilling Attack Detection Model Based on Meta Self-Paced Learning. International Joint Conference on Neural Networks, 1-8, 2021.
   
 Patents
 ======

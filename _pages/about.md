@@ -34,48 +34,96 @@ B.Sc. in Software Engineering, Outstanding Undergraduate, GPA 3.88/4, Sep. 2018 
 
 ## News
 
-- **2026.07:** Personal academic homepage created with GitHub Pages, Jekyll, and Academic Pages.
-- **2025:** DLAP was published in *Journal of Systems and Software*.
-- **2025:** Work on affected library detection from vulnerability reports was published in *Automated Software Engineering*.
-- **2025:** Work on detecting LLM-generated code was published in *ACM Transactions on Software Engineering and Methodology*.
+- **2026.07:** 🏠 Personal academic homepage created with GitHub Pages, Jekyll, and Academic Pages.
+- **2026:** ✅ *Automated Localization of Affected Libraries and Versions from Vulnerability Reports* appeared in *IEEE Transactions on Software Engineering*.
+- **2026:** ✅ *One Size Does Not Fit All* appeared in *ACM Transactions on Software Engineering and Methodology*.
+- **2026:** ✅ *Towards Robust Detection for Malicious Injection Variants* appeared in *IEEE Transactions on Software Engineering*.
+- **2026.03:** 📝 *APISENSOR* was posted as an arXiv preprint.
+- **2025:** 🎉 *Securing Self-Managed Third-Party Libraries* was accepted by ASE 2025.
+- **2025:** 📝 *BacAlarm* and *Leveraging Self-Paced Learning for Software Vulnerability Detection* were posted as arXiv preprints.
+- **2025:** ✅ *DLAP* was published in *Journal of Systems and Software*.
+- **2025:** ✅ Work on affected library detection from vulnerability reports was published in *Automated Software Engineering*.
 
 ## Selected Publications
 
-### DLAP: A Deep Learning Augmented Large Language Model Prompting Framework for Software Vulnerability Detection
+### ✅ Automated Localization of Affected Libraries and Versions from Vulnerability Reports
 
-**Yanjing Yang**, X. Zhou, R. Mao, J. Xu, L. Yang, Y. Zhang, H. Shen, H. Zhang  
-*Journal of Systems and Software*, 2025
+J. Xu, H. Zhang, X. Zhou, **Yanjing Yang**, J. Hu, X. Li, L. Yang, B. Liu  
+*IEEE Transactions on Software Engineering*, 2026  
+**Status:** Published. **CCF:** None
 
-### Towards Robust Detection for Malicious Injection Variants
+### ✅ One Size Does Not Fit All: Investigating Efficacy of Perplexity in Detecting LLM-Generated Code
+
+J. Xu, H. Zhang, **Yanjing Yang**, L. Yang, Z. Cheng, J. Lyu, B. Liu, X. Zhou, A. Bacchelli, K. C. Yin, K. C. Thiam  
+*ACM Transactions on Software Engineering and Methodology*, 35(5), 1-34, 2026  
+**Status:** Published. **CCF:** A  
+[ACM](https://dl.acm.org/doi/abs/10.1145/3748506) / [arXiv](https://arxiv.org/abs/2412.16525)
+
+### 📝 APISENSOR: Robust Discovery of Web API from Runtime Traffic Logs
+
+**Yanjing Yang**, C. Zhong, K. Han, Z. Cheng, J. Xu, X. Zhou, H. Zhang, B. Liu  
+*arXiv preprint arXiv:2603.23852*, 2026  
+**Status:** Preprint  
+[arXiv](https://arxiv.org/abs/2603.23852)
+
+### ✅ Towards Robust Detection for Malicious Injection Variants
 
 **Yanjing Yang**, B. Liu, H. Zhang, J. Xu, X. Zhou, J. Lyu, Z. Mao, D. Pan  
-*IEEE Transactions on Software Engineering*, under revision
+*IEEE Transactions on Software Engineering*, 2026  
+**Status:** Published. **CCF:** None  
+[IEEE](https://www.computer.org/csdl/journal/ts/5555/01/11360768/2dw1f21TKAU)
 
-### Robustness Verification Method for Artificial Intelligence Systems Based on Source Code Processing
+### 📝 BacAlarm: Mining and Simulating Composite API Traffic to Prevent Broken Access Control Violations
 
-**Yanjing Yang**, R. Mao, R. Tan, H. Shen, G. Rong  
-*Journal of Software*, 2023
+**Yanjing Yang**, H. Zhang, B. Liu, J. Xu, J. Hu, L. Dong, Z. Mao, D. Pan  
+*arXiv preprint arXiv:2512.19997*, 2025  
+**Status:** Preprint
 
-### MSPLD: Shilling Attack Detection Model Based on Meta Self-Paced Learning
+### 🎉 Securing Self-Managed Third-Party Libraries
 
-**Yanjing Yang**, M. Gao, Y. Li, F. Wu, J. Wang, Q. Zhao  
-*International Joint Conference on Neural Networks*, Oral Presentation, 2021
+X. Zhou, J. Xu, H. Zhang, **Yanjing Yang**, L. Yang, B. Liu, H. Tang  
+*40th IEEE/ACM International Conference on Automated Software Engineering*, 2025  
+**Status:** Accepted / Conference paper. **CCF:** A
 
-### One Size Does Not Fit All: Investigating Efficacy of Perplexity in Detecting LLM-Generated Code
-
-J. Xu, H. Zhang, X. Zhou, **Yanjing Yang**, L. Yang, Z. Cheng, J. Lyu, B. Liu, K. C. Yin, K. C. Thiam  
-*ACM Transactions on Software Engineering and Methodology*, 2025
-
-### Automated Detection of Affected Libraries from Vulnerability Reports
-
-J. Xu, H. Zhang, X. Zhou, **Yanjing Yang**, R. Mao, X. Li, L. Yang, H. Shen  
-*Automated Software Engineering*, 2025
-
-### Leveraging Self-Paced Learning for Software Vulnerability Detection
+### 📝 Leveraging Self-Paced Learning for Software Vulnerability Detection
 
 Z. Cheng*, **Yanjing Yang***, H. Zhang, L. Yang, J. Hu, J. Xu, B. Liu, H. Shen  
-*ACM Transactions on Software Engineering and Methodology*, under review  
+*arXiv preprint arXiv:2511.09212*, 2025  
+**Status:** Preprint  
+[arXiv](https://arxiv.org/abs/2511.09212)  
 *Equal contribution*
+
+### ✅ Automated Detection of Affected Libraries from Vulnerability Reports
+
+J. Xu, H. Zhang, X. Zhou, **Yanjing Yang**, R. Mao, X. Li, L. Yang, H. Shen  
+*Automated Software Engineering*, 32(2), 73, 2025  
+**Status:** Published. **CCF:** B
+
+### 📝 Enhancing the Accuracy and Comprehensibility in Architectural Tactics Detection via Small Model-Augmented Prompt Engineering
+
+L. Cao, H. Zhang, S. Li, D. Li, **Yanjing Yang**, C. Zhong, X. Zhou, Y. Xie  
+*arXiv preprint arXiv:2503.03609*, 2025  
+**Status:** Preprint  
+[arXiv](https://arxiv.org/abs/2503.03609)
+
+### ✅ DLAP: A Deep Learning Augmented Large Language Model Prompting Framework for Software Vulnerability Detection
+
+**Yanjing Yang**, X. Zhou, R. Mao, J. Xu, L. Yang, Y. Zhang, H. Shen, H. Zhang  
+*Journal of Systems and Software*, 219, 112234, 2025  
+**Status:** Published. **CCF:** B  
+[ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0164121224002784)
+
+### ✅ Robustness Verification Method for Artificial Intelligence Systems Based on Source Code Processing
+
+**Yanjing Yang**, R. Mao, R. Tan, H. Shen, G. Rong  
+*Journal of Software*, 33(9), 1-19, 2023  
+**Status:** Published. **CCF:** None
+
+### ✅ MSPLD: Shilling Attack Detection Model Based on Meta Self-Paced Learning
+
+**Yanjing Yang**, M. Gao, Y. Li, F. Wu, J. Wang, Q. Zhao  
+*International Joint Conference on Neural Networks*, 1-8, 2021  
+**Status:** Published / Oral Presentation. **CCF:** C
 
 ## Research Projects
 
