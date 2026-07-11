@@ -102,6 +102,13 @@
   "references": [],
   "publications": [
     {
+      "name": "Towards Effective Vulnerability Detection on OpenHarmony",
+      "publisher": "IEEE International Symposium on Software Reliability Engineering",
+      "releaseDate": "2026",
+      "website": "",
+      "summary": "Accepted / conference paper. CCF B. Y. Yang, et al."
+    },
+    {
       "name": "Automated Localization of Affected Libraries and Versions from Vulnerability Reports",
       "publisher": "IEEE Transactions on Software Engineering",
       "releaseDate": "2026",
