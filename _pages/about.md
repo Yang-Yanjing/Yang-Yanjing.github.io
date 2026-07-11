@@ -37,7 +37,7 @@ B.Sc. in Software Engineering, Outstanding Undergraduate, GPA 3.88/4, Sep. 2018 
 
 ## News
 
-- **2026.05.25:** 🎓 I received **CSC funding to visit Nanyang Technological University, Singapore** as a joint-training Ph.D. Candidate.
+- **2026.05:** 🎓 I received **CSC funding to visit Nanyang Technological University, Singapore** as a joint-training Ph.D. Candidate.
 - **2026.03:** ✅ Our paper **One Size Does Not Fit All: Investigating Efficacy of Perplexity in Detecting LLM-Generated Code** appeared in *ACM Transactions on Software Engineering and Methodology*.
 - **2026.03:** 📝 Our paper **APISENSOR: Robust Discovery of Web API from Runtime Traffic Logs** was posted as an arXiv preprint.
 - **2026.03:** 🎉 Our paper **Automated Localization of Affected Libraries and Versions from Vulnerability Reports** was accepted by *IEEE Transactions on Software Engineering*.
