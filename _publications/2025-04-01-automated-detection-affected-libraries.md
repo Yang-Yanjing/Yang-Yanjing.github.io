@@ -8,4 +8,4 @@ venue: "Automated Software Engineering"
 citation: "Xu J, Zhang H, Zhou X, Yang Y, Mao R, Li X, Yang L, Shen H. Automated Detection of Affected Libraries from Vulnerability Reports. Automated Software Engineering, 32(2), 73, 2025."
 ---
 
-✅ Published. Rank: CCF B; CAS 4区.
+✅ Published. Rank: CCF B; 中科院SCI 4区.

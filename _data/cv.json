@@ -4,7 +4,7 @@
     "email": "yj_yang@smail.nju.edu.cn",
     "phone": "",
     "website": "https://yang-yanjing.github.io",
-    "summary": "Direct-admission Ph.D. student in Software Engineering at Nanjing University. Research interests include source code security, API security and API breaking-change analysis, LLM-based vulnerability detection, and robustness of AI-based vulnerability detection.",
+    "summary": "Direct-admission Ph.D. Candidate in Software Engineering at Nanjing University. Research interests include source code security, API security and API breaking-change analysis, LLM-based vulnerability detection, and robustness of AI-based vulnerability detection.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -52,9 +52,18 @@
     {
       "institution": "Nanjing University",
       "area": "Software Engineering",
-      "studyType": "Direct-admission Ph.D. student",
+      "studyType": "Direct-admission Ph.D. Candidate",
       "startDate": "2022-09",
       "endDate": "",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "Nanyang Technological University",
+      "area": "Joint-training Ph.D. program",
+      "studyType": "CSC-funded joint-training Ph.D. Candidate",
+      "startDate": "2026-09",
+      "endDate": "2027-09",
       "gpa": null,
       "courses": []
     },
@@ -90,35 +99,35 @@
       "publisher": "IEEE Transactions on Software Engineering",
       "releaseDate": "2026",
       "website": "",
-      "summary": "Published. CCF A; CAS 1区 TOP. J. Xu, H. Zhang, X. Zhou, Y. Yang, J. Hu, X. Li, L. Yang, B. Liu."
+      "summary": "Accepted. CCF A; 中科院SCI 1区 TOP. J. Xu, H. Zhang, X. Zhou, Y. Yang, J. Hu, X. Li, L. Yang, B. Liu."
     },
     {
       "name": "One Size Does Not Fit All: Investigating Efficacy of Perplexity in Detecting LLM-Generated Code",
       "publisher": "ACM Transactions on Software Engineering and Methodology",
       "releaseDate": "2026",
       "website": "https://dl.acm.org/doi/abs/10.1145/3748506",
-      "summary": "Published. CCF A; CAS 1区 TOP. J. Xu, H. Zhang, Y. Yang, L. Yang, Z. Cheng, J. Lyu, B. Liu, X. Zhou, A. Bacchelli, K. C. Yin, K. C. Thiam."
+      "summary": "Published. CCF A; 中科院SCI 1区 TOP. J. Xu, H. Zhang, Y. Yang, L. Yang, Z. Cheng, J. Lyu, B. Liu, X. Zhou, A. Bacchelli, K. C. Yin, K. C. Thiam."
     },
     {
       "name": "APISENSOR: Robust Discovery of Web API from Runtime Traffic Logs",
       "publisher": "arXiv preprint arXiv:2603.23852",
       "releaseDate": "2026",
       "website": "https://arxiv.org/abs/2603.23852",
-      "summary": "Preprint. Y. Yang, C. Zhong, K. Han, Z. Cheng, J. Xu, X. Zhou, H. Zhang, B. Liu."
+      "summary": "Preprint, under review at IEEE TSC. Y. Yang, H. Zhang, C. Zhong, Z. Cheng, X. Zhou, J. Xu, K. Han, B. Liu."
     },
     {
       "name": "Towards Robust Detection for Malicious Injection Variants",
       "publisher": "IEEE Transactions on Software Engineering",
       "releaseDate": "2026",
       "website": "https://www.computer.org/csdl/journal/ts/5555/01/11360768/2dw1f21TKAU",
-      "summary": "Published. CCF A; CAS 1区 TOP. Y. Yang, B. Liu, H. Zhang, J. Xu, X. Zhou, J. Lyu, Z. Mao, D. Pan."
+      "summary": "Accepted. CCF A; 中科院SCI 1区 TOP. Y. Yang, B. Liu, H. Zhang, J. Xu, X. Zhou, J. Lyu, Z. Mao, D. Pan."
     },
     {
       "name": "BacAlarm: Mining and Simulating Composite API Traffic to Prevent Broken Access Control Violations",
       "publisher": "arXiv preprint arXiv:2512.19997",
       "releaseDate": "2025",
       "website": "",
-      "summary": "Preprint. Y. Yang, H. Zhang, B. Liu, J. Xu, J. Hu, L. Dong, Z. Mao, D. Pan."
+      "summary": "Preprint, under review at IEEE TSE. Y. Yang, H. Zhang, B. Liu, J. Xu, J. Hu, L. Dong, Z. Mao, D. Pan."
     },
     {
       "name": "Securing Self-Managed Third-Party Libraries",
@@ -132,14 +141,7 @@
       "publisher": "arXiv preprint arXiv:2511.09212",
       "releaseDate": "2025",
       "website": "https://arxiv.org/abs/2511.09212",
-      "summary": "Preprint. Z. Cheng, Y. Yang, H. Zhang, L. Yang, J. Hu, J. Xu, B. Liu, H. Shen."
-    },
-    {
-      "name": "Automated Detection of Affected Libraries from Vulnerability Reports",
-      "publisher": "Automated Software Engineering",
-      "releaseDate": "2025",
-      "website": "",
-      "summary": "Published. CCF B; CAS 4区. J. Xu, H. Zhang, X. Zhou, Y. Yang, R. Mao, X. Li, L. Yang, H. Shen."
+      "summary": "Preprint. Z. Cheng*, Y. Yang* (Equal contribution), H. Zhang, L. Yang, J. Hu, J. Xu, B. Liu, H. Shen."
     },
     {
       "name": "一种基于大语言模型的多来源漏洞影响库识别方法",
@@ -147,6 +149,13 @@
       "releaseDate": "2025",
       "website": "",
       "summary": "Published. CCF A (Chinese). Y. Yang, et al."
+    },
+    {
+      "name": "Automated Detection of Affected Libraries from Vulnerability Reports",
+      "publisher": "Automated Software Engineering",
+      "releaseDate": "2025",
+      "website": "",
+      "summary": "Published. CCF B; 中科院SCI 4区. J. Xu, H. Zhang, X. Zhou, Y. Yang, R. Mao, X. Li, L. Yang, H. Shen."
     },
     {
       "name": "Enhancing the Accuracy and Comprehensibility in Architectural Tactics Detection via Small Model-Augmented Prompt Engineering",
@@ -160,7 +169,7 @@
       "publisher": "Journal of Systems and Software",
       "releaseDate": "2025",
       "website": "https://www.sciencedirect.com/science/article/abs/pii/S0164121224002784",
-      "summary": "Published. CCF B; CAS 2区. Y. Yang, X. Zhou, R. Mao, J. Xu, L. Yang, Y. Zhang, H. Shen, H. Zhang."
+      "summary": "Published. CCF B; 中科院SCI 2区. Y. Yang, X. Zhou, R. Mao, J. Xu, L. Yang, Y. Zhang, H. Shen, H. Zhang."
     },
     {
       "name": "源码处理场景下人工智能系统鲁棒性验证方法",
