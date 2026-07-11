@@ -62,14 +62,14 @@ B.Sc. in Software Engineering, Outstanding Undergraduate, GPA 3.88/4, Sep. 2018 
 
 Z. Cheng*, **Yanjing Yang*** (Equal contribution), H. Zhang, L. Yang, J. Hu, J. Xu, B. Liu, H. Shen  
 *arXiv preprint arXiv:2511.09212*, 2025  
-**Status:** Preprint; minor revision by *ACM Transactions on Software Engineering and Methodology*. **Rank:** CCF A; 中科院SCI 1区 TOP
+**Status:** Preprint; minor revision by *ACM Transactions on Software Engineering and Methodology*
 [arXiv](https://arxiv.org/abs/2511.09212)
 
 ### BacAlarm: Mining and Simulating Composite API Traffic to Prevent Broken Access Control Violations
 
 **Yanjing Yang**, H. Zhang, B. Liu, J. Xu, J. Hu, L. Dong, Z. Mao, D. Pan  
 *arXiv preprint arXiv:2512.19997*, 2025  
-**Status:** Preprint, under review at *IEEE Transactions on Software Engineering*. **Rank:** CCF A; 中科院SCI 1区 TOP
+**Status:** Preprint, under review at *IEEE Transactions on Software Engineering*
 
 ### 源码处理场景下人工智能系统鲁棒性验证方法
 
