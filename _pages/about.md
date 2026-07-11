@@ -11,7 +11,7 @@ redirect_from:
 
 I am a direct-admission Ph.D. Candidate in Software Engineering at the State Key Laboratory of New Technology of Computer Software, Nanjing University. My research focuses on source code security and API security, especially large language model based vulnerability detection, robustness and generalization of vulnerability detection models, agentic AI for API security analysis, and API breaking-change analysis.
 
-I am advised by Prof. **He Zhang**, a National High-Level Overseas Talent Program ("Thousand Talents Plan") scholar at Nanjing University. I am also honored to collaborate with Assistant Professor **Bohan Liu** at NJU. During my undergraduate studies at Chongqing University, Prof. **Min Gao** introduced me to academic research through the study of **MSPLD: Shilling Attack Detection Model Based on Meta Self-Paced Learning**. Supported by CSC, I am currently collaborating with Prof. **Lyuye Zhang** at Nanyang Technological University and Nankai University, and Prof. **Yang Liu**, a world-leading software engineering expert, at Nanyang Technological University.
+I am advised by Prof. **He Zhang**, a National High-Level Overseas Talent Program ("Thousand Talents Plan") scholar at Nanjing University. I am also honored to collaborate with Assistant Professor **Bohan Liu** at NJU. During my undergraduate studies at Chongqing University, Prof. **Min Gao** introduced me to academic research through the study of **MSPLD**. Supported by CSC, I am currently collaborating with Prof. **Lyuye Zhang** at Nanyang Technological University and Nankai University, and Prof. **Yang Liu**, a world-leading software engineering expert, at Nanyang Technological University.
 
 In software security, I study how LLM agents can support source code vulnerability detection and how vulnerability reports drive code changes across the software supply chain. In API security, I work on agent-based analysis of API entry points, API breaking changes, calling processes, malicious payloads, abnormal API call patterns, and broken access control risks.
 
@@ -26,11 +26,11 @@ In software security, I study how LLM agents can support source code vulnerabili
 
 ## Education
 
-**Nanjing University**, Nanjing, China  
-Direct-admission Ph.D. Candidate in Software Engineering, Headmaster Special Scholarship, Sep. 2022 - Present
-
 **Nanyang Technological University**, Singapore  
 CSC-funded joint-training Ph.D. Candidate, Sep. 2026 - Sep. 2027
+
+**Nanjing University**, Nanjing, China  
+Direct-admission Ph.D. Candidate in Software Engineering, Headmaster Special Scholarship, Sep. 2022 - Dec. 2027 (expected)
 
 **Chongqing University**, Chongqing, China  
 B.Sc. in Software Engineering, Outstanding Undergraduate, GPA 3.88/4, Sep. 2018 - Jul. 2022
@@ -135,6 +135,12 @@ L. Cao, H. Zhang, S. Li, D. Li, **Yanjing Yang**, C. Zhong, X. Zhou, Y. Xie
 [arXiv](https://arxiv.org/abs/2503.03609)
 
 ## Research Projects
+
+### 大规模软件系统的持续集成关键支持技术研究
+
+National Natural Science Foundation of China, Project No. 62202219  
+Principal Investigator: **Bohan Liu**  
+Institution: Nanjing University
 
 ### Multi-Agent Collaboration Task Error Detection
 

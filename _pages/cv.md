@@ -11,15 +11,18 @@ redirect_from:
 
 Education
 ======
-* Direct-admission Ph.D. Candidate in Software Engineering, Nanjing University, Sep. 2022 - Present
+* CSC-funded joint-training Ph.D. Candidate, Nanyang Technological University, Singapore, Sep. 2026 - Sep. 2027
+* Direct-admission Ph.D. Candidate in Software Engineering, Nanjing University, Sep. 2022 - Dec. 2027 (expected)
   * Headmaster Special Scholarship
   * State Key Laboratory of New Technology of Computer Software
-* CSC-funded joint-training Ph.D. Candidate, Nanyang Technological University, Singapore, Sep. 2026 - Sep. 2027
 * B.Sc. in Software Engineering, Chongqing University, Sep. 2018 - Jul. 2022
   * Outstanding Undergraduate, GPA 3.88/4
 
 Work experience
 ======
+* National Natural Science Foundation of China, Project No. 62202219: 大规模软件系统的持续集成关键支持技术研究
+  * Principal Investigator: Bohan Liu
+  * Institution: Nanjing University
 * Sep. 2025 - Present: CCF Populus Grove Project, Multi-Agent Collaboration Task Error Detection
 * Sep. 2024 - Aug. 2025: CCF Populus Grove Project, Vulnerability Detection Based on LLM in OpenHarmony
 * Mar. 2024 - Aug. 2024: CCF Populus Grove Project, PaaS API Security Guardrail

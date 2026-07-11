@@ -27,6 +27,13 @@
   },
   "work": [
     {
+      "name": "National Natural Science Foundation of China",
+      "position": "大规模软件系统的持续集成关键支持技术研究",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Project No. 62202219. Principal Investigator: Bohan Liu. Institution: Nanjing University."
+    },
+    {
       "name": "CCF Populus Grove Project",
       "position": "Researcher, Multi-Agent Collaboration Task Error Detection",
       "startDate": "2025-09",
@@ -50,20 +57,20 @@
   ],
   "education": [
     {
-      "institution": "Nanjing University",
-      "area": "Software Engineering",
-      "studyType": "Direct-admission Ph.D. Candidate",
-      "startDate": "2022-09",
-      "endDate": "",
-      "gpa": null,
-      "courses": []
-    },
-    {
       "institution": "Nanyang Technological University",
       "area": "Joint-training Ph.D. program",
       "studyType": "CSC-funded joint-training Ph.D. Candidate",
       "startDate": "2026-09",
       "endDate": "2027-09",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "Nanjing University",
+      "area": "Software Engineering",
+      "studyType": "Direct-admission Ph.D. Candidate",
+      "startDate": "2022-09",
+      "endDate": "2027-12",
       "gpa": null,
       "courses": []
     },
