@@ -134,6 +134,16 @@ J. Xu, H. Zhang, X. Zhou, **Yanjing Yang**, R. Mao, X. Li, L. Yang, H. Shen
 *Automated Software Engineering*, 32(2), 73, 2025  
 **Status:** Published. **Rank:** CCF B; 中科院SCI 4区
 
+### Enhancing Trustworthiness Evaluation of Large Language Models Through Dataset Refinement
+
+J. Xu, X. Zhou, **Yanjing Yang**, T. Liu, J. Xu, C. Zhang, L. Yang, L. Dong
+
+*Information and Software Technology*, 199, 108249, 2026
+
+**Status:** Published. **Rank:** CCF B
+
+[ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0950584926002387)
+
 ### Enhancing the Accuracy and Comprehensibility in Architectural Tactics Detection via Small Model-Augmented Prompt Engineering
 
 L. Cao, H. Zhang, S. Li, D. Li, **Yanjing Yang**, C. Zhong, X. Zhou, Y. Xie  

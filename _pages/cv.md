@@ -51,6 +51,7 @@ Publications
 - [Published, CCF A Chinese] Yang Y, et al. 一种基于大语言模型的多来源漏洞影响库识别方法. 计算机学报, 2025.
 - [Accepted, CCF B] Mao R, Zhang H, Yang Y, Jia J, Yang L, Zhou X, Shen H. Towards Effective Vulnerability Detection on OpenHarmony. IEEE International Symposium on Software Reliability Engineering, 2026.
 - [Published, CCF B, 中科院SCI 4区] Xu J, Zhang H, Zhou X, Yang Y, Mao R, Li X, Yang L, Shen H. Automated Detection of Affected Libraries from Vulnerability Reports. Automated Software Engineering, 32(2), 73, 2025.
+- [Published, CCF B] Xu J, Zhou X, Yang Y, Liu T, Xu J, Zhang C, Yang L, Dong L. Enhancing Trustworthiness Evaluation of Large Language Models Through Dataset Refinement. Information and Software Technology, 199, 108249, 2026.
 - [Preprint] Cao L, Zhang H, Li S, Li D, Yang Y, Zhong C, Zhou X, Xie Y. Enhancing the Accuracy and Comprehensibility in Architectural Tactics Detection via Small Model-Augmented Prompt Engineering. arXiv:2503.03609, 2025.
   
 Patents
