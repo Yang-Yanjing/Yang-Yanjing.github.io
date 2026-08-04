@@ -63,8 +63,7 @@ B.Sc. in Software Engineering, Outstanding Undergraduate, GPA 3.88/4, Sep. 2018 
 ### [2] Leveraging Self-Paced Learning for Software Vulnerability Detection
 
 Z. Cheng*, **Yanjing Yang*** (Equal contribution), H. Zhang, L. Yang, J. Hu, J. Xu, B. Liu, H. Shen  
-*ACM Transactions on Software Engineering and Methodology*, 2026
-
+*ACM Transactions on Software Engineering and Methodology*, 2026  
 **Status:** Accepted. **Rank:** CCF A; 中科院SCI 1区 TOP
 [arXiv](https://arxiv.org/abs/2511.09212)
 
