@@ -110,10 +110,10 @@
     },
     {
       "name": "Leveraging Self-Paced Learning for Software Vulnerability Detection",
-      "publisher": "arXiv preprint arXiv:2511.09212",
-      "releaseDate": "2025",
+      "publisher": "ACM Transactions on Software Engineering and Methodology",
+      "releaseDate": "2026",
       "website": "https://arxiv.org/abs/2511.09212",
-      "summary": "Preprint; minor revision by TOSEM. Z. Cheng*, Y. Yang* (Equal contribution), H. Zhang, L. Yang, J. Hu, J. Xu, B. Liu, H. Shen."
+      "summary": "Accepted. CCF A; 中科院SCI 1区 TOP. Z. Cheng*, Y. Yang* (Equal contribution), H. Zhang, L. Yang, J. Hu, J. Xu, B. Liu, H. Shen."
     },
     {
       "name": "BacAlarm: Mining and Simulating Composite API Traffic to Prevent Broken Access Control Violations",

@@ -39,7 +39,7 @@ Skills
 Publications
 ======
 - [Accepted, CCF A, 中科院SCI 1区 TOP] Yang Y, Liu B, Zhang H, Xu J, Zhou X, Lyu J, Mao Z, Pan D. Towards Robust Detection for Malicious Injection Variants. IEEE Transactions on Software Engineering, 2026.
-- [Preprint; minor revision by TOSEM] Cheng Z*, Yang Y* (Equal contribution), Zhang H, Yang L, Hu J, Xu J, Liu B, Shen H. Leveraging Self-Paced Learning for Software Vulnerability Detection. arXiv:2511.09212, 2025.
+- [Accepted, CCF A, 中科院SCI 1区 TOP] Cheng Z*, Yang Y* (Equal contribution), Zhang H, Yang L, Hu J, Xu J, Liu B, Shen H. Leveraging Self-Paced Learning for Software Vulnerability Detection. ACM Transactions on Software Engineering and Methodology, 2026.
 - [Preprint, under review at IEEE TSE] Yang Y, Zhang H, Liu B, Xu J, Hu J, Dong L, Mao Z, Pan D. BacAlarm: Mining and Simulating Composite API Traffic to Prevent Broken Access Control Violations. arXiv:2512.19997, 2025.
 - [Published, CCF A Chinese] 杨焱景, 毛润丰, 谭睿, 沈海峰, 荣国平. 源码处理场景下人工智能系统鲁棒性验证方法. 软件学报, 33(9), 1-19, 2023.
 - [Published, CCF B, 中科院SCI 2区] Yang Y, Zhou X, Mao R, Xu J, Yang L, Zhang Y, Shen H, Zhang H. DLAP: A Deep Learning Augmented Large Language Model Prompting Framework for Software Vulnerability Detection. Journal of Systems and Software, 219, 112234, 2025.

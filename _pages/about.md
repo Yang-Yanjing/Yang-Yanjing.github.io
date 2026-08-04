@@ -37,6 +37,7 @@ B.Sc. in Software Engineering, Outstanding Undergraduate, GPA 3.88/4, Sep. 2018 
 
 ## News
 
+- **2026.08:** 🎉 Our paper **Leveraging Self-Paced Learning for Software Vulnerability Detection** was accepted by *ACM Transactions on Software Engineering and Methodology*.
 - **2026.07:** ✅ Our paper **Enhancing Trustworthiness Evaluation of Large Language Models Through Dataset Refinement** was published in *Information and Software Technology*.
 - **2026.07:** 🎉 Our paper **Towards Effective Vulnerability Detection on OpenHarmony** was accepted by ISSRE 2026.
 - **2026.05:** 🎓 I received **CSC funding to visit Nanyang Technological University, Singapore** as a joint-training Ph.D. Candidate.
@@ -62,8 +63,9 @@ B.Sc. in Software Engineering, Outstanding Undergraduate, GPA 3.88/4, Sep. 2018 
 ### [2] Leveraging Self-Paced Learning for Software Vulnerability Detection
 
 Z. Cheng*, **Yanjing Yang*** (Equal contribution), H. Zhang, L. Yang, J. Hu, J. Xu, B. Liu, H. Shen  
-*arXiv preprint arXiv:2511.09212*, 2025  
-**Status:** Preprint; minor revision by *ACM Transactions on Software Engineering and Methodology*
+*ACM Transactions on Software Engineering and Methodology*, 2026
+
+**Status:** Accepted. **Rank:** CCF A; 中科院SCI 1区 TOP
 [arXiv](https://arxiv.org/abs/2511.09212)
 
 ### [3] BacAlarm: Mining and Simulating Composite API Traffic to Prevent Broken Access Control Violations
